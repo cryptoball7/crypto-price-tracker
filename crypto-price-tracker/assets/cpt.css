@@ -1,0 +1,3 @@
+.cpt-price { display: inline-block; border:1px solid #ddd; padding:8px 12px; border-radius:6px; font-family:inherit; }
+.cpt-price-value{ font-weight:700; margin-right:8px; }
+.cpt-price-meta{ display:block; font-size:12px; color:#666; }
